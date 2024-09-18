@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Roll-Dice
 =======
 # roll_dice
@@ -18,3 +19,9 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 >>>>>>> 7601b3c (Initial commit)
+=======
+(Your local changes here)
+=======
+(Remote changes here)
+>>>>>>> (commit hash)
+>>>>>>> 995ac968f420a683ee1c18cbfeddf5c213660e60
